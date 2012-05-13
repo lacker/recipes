@@ -11,7 +11,10 @@ crisping isn't even really necessary, but it ensures that people get
 the ribs when they are hot, heats up the bbq sauce, and provides a bit
 of spectacle.
 
-TODO: how many people does this feed? we usually have way too much.
+A serving is about three or four ribs. Like all mammals, pigs have 13 ribs,
+so a rack is about four servings. Often ribs come in half-rack pieces,
+but if you tell the butcher "hey I need about four times what you have
+on display here" they will go get full racks for you.
 
 ---
 
@@ -36,7 +39,8 @@ paprika.
 1 tsp ancho pepper
 
 This amount of rub can handle a rack and a half of ribs, but maybe not
-two racks.
+two racks. More rub makes it easier to coat the ribs, and you can save it,
+so make extra.
 
 ---
 
@@ -61,9 +65,9 @@ Leave in the fridge overnight or for a few days.
 
 Showtime
 
-Cook in the aluminum foil for 4 hours at 225. These parameters seem to
-matter a lot. 4/225 is empirically optimal but I hear rumors that this
-could be different for different ovens.
+Cook in the aluminum foil for 4 hours 15 minutes at 225. These parameters
+seem to matter a lot. 4:15/225 is empirically optimal for me but it
+seems different for different ovens.
 
 Open the aluminum and let it sit for 10 minutes. Letting it sit for
 longer is fine, if you cooked a big batch and the grill or appetites
