@@ -10,6 +10,8 @@ Camp stove
 Fuel
 Matches
 Pots
+Plates
+Cups
 Tongs
 Forks
 Spoons
